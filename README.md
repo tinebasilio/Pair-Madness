@@ -2,4 +2,4 @@
 A Spooky Card Matching Adventure developed in C# 
 
 Developers:
-Kristine Angeli B. Basilio, Avien Flaire C. Batul, and Paulo C. Bondoc
+Avien Flaire C. Batul, Kristine Angeli B. Basilio, and Paulo C. Bondoc
